@@ -5,7 +5,7 @@ This is the [OpenFrameworks](http://openframeworks.cc) library apothecary. It mi
 
 This repository builds all the openFrameworks libraries through test servers and stores them...
 
-##Build status
+## Build status
 
 Travis-ci Build for: Linux, OSX, iOS, tvOS, Emscripten and Android:    [![Build Status](https://travis-ci.org/openframeworks/apothecary.svg?branch=master)](https://travis-ci.org/openframeworks/apothecary)
 
